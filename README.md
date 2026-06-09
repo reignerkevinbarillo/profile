@@ -70,7 +70,7 @@ and desktop, with structured testing workflows before every handoff.
 
 </p><!-- ===== SNAKE ===== --><p align="center">
 
-  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/reignerkevinbarillo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/profile/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </p><br><!-- ===== EDUCATION & AWARDS ===== --><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Education & Awards
 
