@@ -31,9 +31,6 @@ const reigner = {
 };
 
 
-Full-stack developer specializing in modern web applications. I turn ideas into
-production-ready products: from database architecture to polished UI. Clients get
-clean code, responsive designs, and someone who actually communicates throughout the build.
 <br><!-- ===== TECH STACK ===== --><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
 <p align="center">
 
