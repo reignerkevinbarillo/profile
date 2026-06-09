@@ -29,7 +29,7 @@ const reigner = {
   currentlyBuilding: "Clinic Management System (Next.js + Node + Supabase)",
   inbox: "reignerkevinofficial@gmail.com", // always open
 };
-
+```
 
 <br><!-- ===== TECH STACK ===== --><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
 <p align="center">
